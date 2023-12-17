@@ -1,3 +1,4 @@
+![Crypto-Core Logo](public/crypto-core.netlify.app_.png)
 
 # Crypto-Core - Comprehensive Crypto Application
 
