@@ -1,4 +1,4 @@
-![Crypto-Core Logo]([https://example.com/path/to/crypto-core-logo.png](https://www.dropbox.com/scl/fi/anerjei6enzx2ry8myh2w/crypto-core.netlify.app_.png?rlkey=8k6tenfmaalgcylh13bdmzucg&dl=0))
+
 # Crypto-Core - Comprehensive Crypto Application
 
 Crypto-Core is an all-in-one crypto application that provides in-depth data on cryptocurrencies, detailed exchange information, and the latest crypto news. Explore the world of cryptocurrencies with Crypto-Core, your go-to platform for comprehensive crypto insights. This README provides step-by-step instructions for setting up and running the Crypto-Core project.
